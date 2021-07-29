@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/android.iml" group="coinman/android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coinman.iml" filepath="$PROJECT_DIR$/.idea/modules/coinman.iml" group="coinman" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" group="coinman/core" />
+    </modules>
+  </component>
+</project>
